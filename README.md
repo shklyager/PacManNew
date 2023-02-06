@@ -1,4 +1,4 @@
-pacman game
+Pacman game.
 These instructions will help you set up and run a copy of the project on your local machine for development and testing purposes.
 To run the application, you must first install.
 To install applications, download the following files in one folder on your PC:
